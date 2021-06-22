@@ -1,0 +1,7 @@
+/* Write you CSS here */
+.filters-container {
+  display: flex;
+}
+.adjust-filters {
+  margin-right: 25px;
+}
